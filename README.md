@@ -1,6 +1,5 @@
-# C# dolgozat
+# C# dolgozat feltöltéséhez
 
-Dolgozat feltöltése
 ## 1. lépés: 
 nyitsd meg a powershellt, majd írd be a következő parancsokat <br>
 `FONTOS` A vezteknev_keresztnev helyére a saját vezetékneved és keresztnevedet írd ékezet nélkül. pl: szanto_benjamin
